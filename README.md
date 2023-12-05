@@ -1,2 +1,2 @@
 
-## Esto es un readme
+## Proyecto creado en curso de aprendizaje de JavaScript
